@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { NgFor } from '@angular/common';
 import { Http } from '@angular/http';
 
 @Component({
